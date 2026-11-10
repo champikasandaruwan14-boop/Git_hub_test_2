@@ -6,6 +6,7 @@ function App() {
       <Hearder />
       <h1>Hello React</h1>
       <p>Welcome</p>
+      <h1>React and Git Hub</h1>
     </div>
   );
 }
